@@ -1,4 +1,4 @@
-# **Operation Systems - Final Project**
+# **Graph Algorithms Library**
 
 ## **Authors**
 - **Roy Meoded**
